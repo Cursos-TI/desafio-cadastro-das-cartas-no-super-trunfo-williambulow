@@ -25,8 +25,8 @@ int main() {
 
     // Criando e inicializando a estrutura com os dados fornecidos para Rio de Janeiro
     struct Cidade cidade2 = {
-        "A",                    // Estado
-        "A02",                  // Código
+        "B",                    // Estado
+        "B02",                  // Código
         "Rio de Janeiro",       // Nome da cidade
         6748000,                // População (valor fictício)
         1182.30,                // Área (valor fictício)
