@@ -28,11 +28,10 @@ int main() {
         "B",                    // Estado
         "B02",                  // Código
         "Rio de Janeiro",       // Nome da cidade
-        6748000,                // População (valor fictício)
-        1182.30,                // Área (valor fictício)
-        700.10,                 // PIB (valor fictício)
-        60                      // Número de pontos turísticos (valor fictício)
-    };
+        6748000,                // População 
+        1182.30,                // Área 
+        700.10,                 // PIB 
+        60                      // Número de pontos turísticos 
 
     // Exibindo os dados da cidade de São Paulo
     printf("Carta 1 - Detalhes de %s\n", cidade1.nome);
